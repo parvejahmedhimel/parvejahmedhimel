@@ -1,78 +1,100 @@
 <h1 align="center">Hi 👋, I'm Parvej Ahmed</h1>
+
 <p align="center">
-  <img src="https://parvejahmed.top/wp-content/uploads/2025/01/Untitled-design-4-1-1.png" alt="Parvej Ahmed" width="200" style="border-radius: 50%;">
+  <img src="https://parvejahmed.top/wp-content/uploads/2025/01/Untitled-design-4-1-1.png" width="180" alt="Parvej Ahmed" style="border-radius: 50%;">
 </p>
 
 <p align="center">
-  🌍 From Sunamganj, Sylhet, Bangladesh <br>
-  🎓 Passed HSC in 2024 from Kolmakanda Government College <br>
-  💻 Currently building a social networking website using WordPress <br>
-  📚 Preparing for University Admission (Science - C Unit) <br>
+  🚀 Passionate about Tech, Web Development, and Community Building <br/>
+  📍 Based in Sunamganj, Sylhet, Bangladesh <br/>
+  🎓 HSC Graduate – Kolmakanda Government College (2024)<br/>
+  🌱 Currently Learning PHP, MySQL & WordPress Backend <br/>
+  🎯 Aiming for University Admission (C Unit – Science) <br/>
 </p>
 
----
-
-### 🔗 Connect with Me
-
-- 🌐 Website: [parvejahmed.top](https://parvejahmed.top)
-- 📘 Facebook: [Parvej Ahmed](https://www.facebook.com/parvej.ahmed.10441861/)
-- 📸 Instagram: [@parvezahmedp](https://www.instagram.com/parvezahmedp/)
-- 🐦 Twitter (X): [@bdparvejs2](https://x.com/bdparvejs2)
-- 🎥 YouTube: [@The_HiddenFlame](https://www.youtube.com/@The_HiddenFlame)
-- 🎨 Behance: [Parvej Ahmed](https://www.behance.net/parvejahmed20)
-- 💼 LinkedIn: [Parvej Ahmed](https://www.linkedin.com/in/parvej-ahmed-6bb453351)
-- ✉️ Email: [contact@parvejahmed.top](mailto:contact@parvejahmed.top) | [linesecod@gmail.com](mailto:linesecod@gmail.com)
-- 📱 Phone: +8801708680529
-- 📍 Google Map: [About Me on Google](https://g.co/kgs/6GwezFc)
-
----
-
-### 🚀 Tech I’m Working With
-
-- WordPress, Elementor
-- HTML, CSS, JavaScript
-- Hosting: HostNil
-- Currently learning: PHP, MySQL, and more for backend development
-
----
-
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parvejahmed&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://komarev.com/ghpvc/?username=parvejahmedhimel&label=Profile+Views" alt="profile views"/>
 </p>
 
 ---
 
-### 🧠 Currently Learning
 
-- Advanced WordPress Development
-- University Entrance Syllabus (Physics, Math, Biology, Chemistry)
 
----
 
-### 💡 Fun Fact
-
-> I love creating digital things that connect people!
-
----
+## 🔗 Connect With Me
 
 <p align="center">
-  Thank you for visiting my profile! 🚀
+  <a style="border: 20 px solid #00D8FF" href="https://parvejahmed.top" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+  <a href="mailto:contact@parvejahmed.top" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/parvej-ahmed-6bb453351" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/bdparvejs2" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
+  <a href="https://www.youtube.com/@The_HiddenFlame" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.instagram.com/parvejahmedhimel/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.behance.net/parvejahmed20" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a>
+  <a href="https://wa.me/8801708680529" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+</p>
+
+---
+
+
+## 📊 GitHub Stats
+
+
+ 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=parvejahmedhimel&show_icons=true&theme=dark"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=parvejahmedhimel&theme=dark"> </p>
+  <br>
+  <img width="100%" height="400px%"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvejahmedhimel&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+
+### 🛠 Tech Stack
+
+### 🌐 Web Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=wordpress,elementor,html,css,js,php,mysql,laravel,react,nodejs,express" alt="Web Development">
+</p>
+
+### 🛠 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,ps,ai,aws,firebase,nginx" alt="Tools">
+</p>
+
+### 🌱 Currently Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,django,mongodb,docker,kubernetes" alt="Learning">
 </p>
 
 
-<!--
-**parvejahmedhimel/parvejahmedhimel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚧 Projects
+
+| Project | Description | Preview |
+|--------|-------------|---------|
+| 🔐 [Pin--Mathing](https://github.com/parvejahmedhimel/Pin--Mathing) | A fun PIN generator and matcher using HTML/CSS/JS | [Live Demo](https://parvejahmedhimel.github.io/Pin--Mathing/) |
+| 💸 [Bank Demo](https://github.com/parvejahmedhimel/Demu-of-bank-depo-and-withdraw) | A simple banking deposit & withdraw interface | [Screenshots](https://github.com/parvejahmedhimel/Demu-of-bank-depo-and-withdraw) |
+| 🔢 [Numbers Password Generator](https://github.com/parvejahmedhimel/Numbers-Password_generator) | Basic password generator with number logic | GitHub |
+
+> 🎨 Want more? Browse all at [github.com/parvejahmedhimel](https://github.com/parvejahmedhimel)
+
+---
+
+
+
+## ✨ Fun Facts
+
+- 🧠 I love solving real-world problems through code.
+- 💬 Ask me about WordPress, hosting setup, or web design ideas.
+- 🎮 In free time, I explore online tech communities & experiment with code.
+
+---
+
+
+<p align="center">
+  ⚡ “The best way to learn is to build.” <br>
+  Thanks for stopping by! 🚀 Let's build something amazing.
+</p>
