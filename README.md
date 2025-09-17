@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parvej Ahmed</h1>
 
 <p align="center">
-  <img src="https://parvejahmed.top/wp-content/uploads/2025/01/Untitled-design-4-1-1.png" width="180" alt="Parvej Ahmed" style="border-radius: 50%;">
+  <img src="https://raw.githubusercontent.com/parvejahmedhimel/parvejahmedhimel/refs/heads/main/image.png">
 </p>
 
 <p align="center">
