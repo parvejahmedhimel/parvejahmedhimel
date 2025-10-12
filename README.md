@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Parvej Ahmed</h1>
 
+<style>
+  .styless{border-radius:11px
+  }
+</style>
+
 <p align="center">
-  <img  height="200px" src="https://raw.githubusercontent.com/parvejahmedhimel/parvejahmedhimel/refs/heads/main/image.png">
+  <img  class="styless"  height="200px" src="https://raw.githubusercontent.com/parvejahmedhimel/parvejahmedhimel/refs/heads/main/image.png">
 </p>
 
 <p align="center">
