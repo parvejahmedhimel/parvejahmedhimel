@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋, I'm Parvej Ahmed</h1>
-
-<style>
+    <style>
   .styless{border-radius:11px
   }
 </style>
+
+</body>
+</html>
+<h1 align="center">Hi 👋, I'm Parvej Ahmed</h1>
+
 
 <p align="center">
   <img  class="styless"  height="200px" src="https://raw.githubusercontent.com/parvejahmedhimel/parvejahmedhimel/refs/heads/main/image.png">
@@ -103,3 +106,6 @@
   ⚡ “The best way to learn is to build.” <br>
   Thanks for stopping by! 🚀 Let's build something amazing.
 </p>
+    
+</body>
+</html>
