@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parvej Ahmed</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/parvejahmedhimel/parvejahmedhimel/refs/heads/main/image.png">
+  <img  height="200px" src="https://raw.githubusercontent.com/parvejahmedhimel/parvejahmedhimel/refs/heads/main/image.png">
 </p>
 
 <p align="center">
