@@ -1,7 +1,7 @@
 # Hi 👋, I'm Parvej Ahmed
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/parvejahmedhimel/parvejahmedhimel/refs/heads/main/image.png" width="200" style="border-radius:50%; border:4px solid #00D8FF; box-shadow:0 0 20px #00D8FF55; animation:pulse 2.5s infinite;">
+  <img src="https://raw.githubusercontent.com/parvejahmedhimel/parvejahmedhimel/refs/heads/main/resized-photo.jpg" width="200" style="border-radius:50%; border:4px solid #00D8FF; box-shadow:0 0 20px #00D8FF55; animation:pulse 2.5s infinite;">
 </p>
 
 <p align="center">
