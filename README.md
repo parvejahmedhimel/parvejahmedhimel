@@ -7,9 +7,9 @@
 <p align="center">
 🚀 Passionate about Tech, Web Development, and Community Building <br>
 📍 Based in Sunamganj, Sylhet, Bangladesh <br>
-🎓 HSC Graduate – Kolmakanda Government College (2024) <br>
-🌱 Learning PHP, MySQL & WordPress Backend <br>
-🎯 Aiming for University Admission (C Unit – Science) <br>
+🎓 HSC Graduate – Kolmakanda Government College  <br>
+🌱 Learning PHP, MySQL & WordPress <br>
+🎯 Aiming for Back-End Developments <br>
 </p>
 
 <p align="center">
